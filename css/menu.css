@@ -1,23 +1,22 @@
+.container {
+}
 .header {
-  max-width: 1440px;
-  background-color: #050404;
 }
-
-.menu {
-  margin: 0;
-  padding: 0;
+.logo {
 }
-
-.menu-item {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: white;
+.navigation {
 }
-
-.menu-list {
-  display: inline-block;
+.navigation__item {
 }
-
-.blog {
-  color: #ffb822;
+.navigation__link {
+}
+.navigation__link_color_yellow {
+}
+.navigation__list {
+}
+.search {
+}
+.search__button {
+}
+.search__input {
 }
